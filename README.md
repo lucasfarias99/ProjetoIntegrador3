@@ -19,7 +19,7 @@
 - detalhes
 
 ## Maria Clara Pereira de Sousa
-**tarefa**
-- detalhes
+**Desenvolvimento front-end**
+- Desenvolvimento de Interfaces de Usuário: Projetar interfaces de usuário atraentes e responsivas utilizando HTML, CSS e JavaScript, incluindo o layout da página, estilização, animações e interações com o usuário.
 
 
