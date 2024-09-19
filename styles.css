@@ -1,0 +1,58 @@
+/* Estilo dos vértices */
+.nodeRect {
+    fill: #0044cc;
+    stroke: #ffffff;
+    stroke-width: 2px;
+    transition: fill 0.3s ease, stroke 0.3s ease;
+}
+
+/* Estilo das arestas */
+.link {
+    stroke: #333333;
+    stroke-width: 3px;
+    opacity: 0.8;
+}
+
+/* Texto das arestas */
+.link-text {
+    fill: #000000;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+/* Melhorar a visibilidade do texto dentro dos nós */
+.node text {
+    fill: #ffffff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.node:focus rect,
+.node:focus-visible rect {
+    stroke: #ff9900;
+    stroke-width: 3px;
+    outline: none;
+}
+
+.node {
+    cursor: pointer;
+}
+
+/* Efeito de transição quando o mouse passa sobre os nós */
+.nodeRect:hover {
+    fill: #ffcc00;
+    stroke: #ff9900;
+    transition: fill 0.3s ease, stroke 0.3s ease;
+}
+
+/* Definir tamanhos responsivos para facilitar em dispositivos menores */
+@media (max-width: 768px) {
+    .nodeRect {
+        width: 50px;
+        height: 40px;
+    }
+
+    .link-text {
+        font-size: 12px;
+    }
+}
