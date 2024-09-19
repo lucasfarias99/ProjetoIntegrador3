@@ -1,9 +1,8 @@
 # Equipe:
 
 ## 	Pedro Henrique Macedo Cruz
-**Desenvolvimento do Front End**
-- Desenvolvimento do grafo: apresentação do grafo
-- Interação do Usuário com o grafo
+**Desenvolvimento front-end**
+- Desenvolvimento do grafo: apresentação do grafo; interação do Usuário com o grafo
 
 ## Jarod Bezerra Lima
 **Desenvolvimento Full Stack**
