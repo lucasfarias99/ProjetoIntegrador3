@@ -1,12 +1,13 @@
 # Equipe:
 
 ## 	Pedro Henrique Macedo Cruz
-**tarefa**
-- detalhes
+**Desenvolvimento do Front End**
+- Desenvolvimento do grafo: apresentação do grafo
+- Interação do Usuário com o grafo
 
 ## Jarod Bezerra Lima
-**tarefa**
-- detalhes
+**Desenvolvimento Full Stack**
+- Desenvolvimento do grafo: estrutura do grafo; implementação do algoritmo de Dijkstra.
 
 ## Francisco Lucas Farias da Silva
 **Desenvolvimento back-end**
